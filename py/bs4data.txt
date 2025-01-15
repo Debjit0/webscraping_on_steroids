@@ -4,13 +4,6 @@
 <head>
 
 
-<title>27:17 | Relief &amp; Recovery Cream
-</title>
-
-
-
-
-
 
 
 
@@ -20,300 +13,27 @@
 
 
 </head>
-<body class="template-product template-product no-touchevents image-reveal--mask" id="27-17-relief-amp-recovery-cream">
-
-<a class="visually-hidden skip-to-content" href="#main" tabindex="1">Skip to content</a><div class="shopify-section mount-announcement" id="shopify-section-announcement-bar"></div><div class="shopify-section mount-header" id="shopify-section-header"><main-header class="header-holder">
-<div class="header wrapper">
-<div class="logo" id="logo" tabindex="-1">
-<span data-max_desk_height="48" data-max_mobile_height="40" id="header-size-settings"></span>
-<a class="logo-img" href="/" style="height:var(--header-logo);display:flex;align-items:center" tabindex="3" title="27:17">
-<img alt="27:17" height="294" src="//2717recovery.com/cdn/shop/files/logo_copper.png?v=1675033810" style="max-height:48px" width="894"/>
-</a>
-</div>
-<button aria-controls="site-menu-sidebar" aria-expanded="false" class="menu-opener" id="menu-open-button" tabindex="2">
-<span aria-label="Menu" class="menu-opener__icon" role="img">
-<span class="line"></span><span class="line"></span><span class="line"></span>
-</span>
-
-</button>
-<div class="menu-meta">
-<ul><li>
-<a aria-controls="site-cart-sidebar" aria-expanded="false" class="menu-meta__link" href="/cart" id="cart-open-button">
-<span aria-label="Shopping bag" class="menu-meta__icon" role="img" style="margin-top: -1px;"><svg aria-hidden="true" fill="none" focusable="false" height="26" role="presentation" viewbox="0 0 22 26" width="22" xmlns="http://www.w3.org/2000/svg"><path d="M6.57058 6.64336H4.49919C3.0296 6.64336 1.81555 7.78963 1.7323 9.25573L1.00454 22.0739C0.914352 23.6625 2.17916 25 3.77143 25H18.2286C19.8208 25 21.0856 23.6625 20.9955 22.0739L20.2677 9.25573C20.1844 7.78962 18.9704 6.64336 17.5008 6.64336H15.4294M6.57058 6.64336H15.4294M6.57058 6.64336V4.69231C6.57058 2.6531 8.22494 1 10.2657 1H11.7343C13.775 1 15.4294 2.6531 15.4294 4.69231V6.64336" stroke="#ffffff" stroke-width="1.75"></path></svg><span class="menu-meta__count" data-header-cart-count="">0</span>
-</span>
-
-</a>
-</li>
-</ul>
-</div>
-</div>
-</main-header>
-<sidebar-drawer aria-modal="true" class="sidebar sidebar--left" id="site-menu-sidebar" role="dialog" tabindex="-1">
-<div class="sidebar__container">
-<div class="sidebar__close">
-<button aria-label="Close" class="close-sidebar">
-<span class="aria-hidden"><svg aria-hidden="true" fill="none" focusable="false" height="17" role="presentation" viewbox="0 0 17 17" width="17" xmlns="http://www.w3.org/2000/svg"><path d="M1.41418 0L16.9705 15.5563L15.5563 16.9706L-2.89679e-05 1.41421L1.41418 0Z" fill="#111111"></path><path d="M16.9706 1.41431L1.41423 16.9707L1.85966e-05 15.5564L15.5564 9.31025e-05L16.9706 1.41431Z" fill="#111111"></path></svg></span>
-<span class="close-sidebar__text">Close</span>
-</button>
-<button aria-label="Back" class="navigate-back" style="display:none">
-<span class="aria-hidden" style="margin-left:-7px"><svg aria-hidden="true" fill="none" focusable="false" height="18" role="presentation" viewbox="0 0 32 18" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M8.41421 7.58579L16.9706 16.1421L15.5563 17.5563L7 9L8.41421 7.58579Z" fill="#111111"></path><path d="M8.93506 7.98523H31.0356V9.98523L8.93506 9.98523V7.98523Z" fill="#111111"></path><path d="M16.9706 1.85787L8.41421 10.4142L7 9L15.5563 0.443655L16.9706 1.85787Z" fill="#111111"></path></svg></span>
-<span class="close-sidebar__text">Back</span>
-</button>
-</div>
-<div class="sidebar__content">
-<div class="sidebar__menus"><nav class="primary-menu">
-<ul class="sidebar__menu sidebar--primary"><li class="">
-<a href="/">
-<span style="flex: 1;"><span class="underline-animation">Home</span></span></a></li><li class="">
-<a class="selected" href="/products/recovery-cream">
-<span style="flex: 1;"><span class="underline-animation">Shop Now</span></span></a></li><li class="">
-<a href="/pages/our-mission">
-<span style="flex: 1;"><span class="underline-animation">Our Mission</span></span></a></li><li class="">
-<a href="https://2717recovery.com/pages/health-ambassador-application">
-<span style="flex: 1;"><span class="underline-animation">Ambassador Application</span></span></a></li><li class="">
-<a href="https://2717recovery.com/pages/health-ambassador-application">
-<span style="flex: 1;"><span class="underline-animation">Wholesale Partnerships</span></span></a></li></ul>
-</nav></div>
-<div class="sidebar__footer">
-<div class="localization-form-holder"></div></div>
-</div>
-</div>
-</sidebar-drawer><sidebar-drawer aria-modal="true" class="sidebar sidebar--right" id="site-cart-sidebar" role="dialog" tabindex="-1">
-<div class="sidebar__container">
-<div class="sidebar__close">
-<button aria-label="Close" class="close-sidebar">
-<span class="aria-hidden"><svg aria-hidden="true" fill="none" focusable="false" height="17" role="presentation" viewbox="0 0 17 17" width="17" xmlns="http://www.w3.org/2000/svg"><path d="M1.41418 0L16.9705 15.5563L15.5563 16.9706L-2.89679e-05 1.41421L1.41418 0Z" fill="#111111"></path><path d="M16.9706 1.41431L1.41423 16.9707L1.85966e-05 15.5564L15.5564 9.31025e-05L16.9706 1.41431Z" fill="#111111"></path></svg></span>
-<span class="close-sidebar__text">Close</span>
-</button>
-</div><cart-form id="AjaxCartForm">
-<span class="site-cart-heading sidebar__caption">0 products in your cart</span>
-<form action="/cart" class="cart" id="cart" method="post" novalidate="">
-<div class="cart-holder" data-items="0">
-<div class="cart-items"></div>
-</div>
-</form>
-<span aria-hidden="true" class="cart__count hidden" data-cart-count="">0</span>
-</cart-form><div id="AjaxCartSubtotal">
-<div class="cart__footer cart--empty"><div class="cart-out">
-<div id="CartDetails"></div>
-<p id="CartTotal">Total: <span>$0.00</span></p>
-<span class="info">Shipping &amp; taxes calculated at checkout</span>
-<div class="cart-actions buttons-holder">
-<a class="button button--border button--align" href="/cart" id="ViewCart">View Cart</a>
-<noscript>
-<button class="button button--border button--wide" form="cart" name="update">Update cart</button>
-</noscript>
-<button class="button button--solid" form="cart" id="CheckOut" name="checkout" type="submit">Checkout</button><div class="additional-checkout-buttons additional-checkout-buttons--vertical"><div class="dynamic-checkout__content" data-shopify="dynamic-checkout-cart" id="dynamic-checkout-cart"> <shopify-accelerated-checkout-cart access-token="f7af49b7a5a74b2a91f3d4fcd21d493d" buyer-country="US" buyer-currency="USD" buyer-locale="en" cart-id="17890e77da32690c6b8dcfa4a1fa3b17" shop-id="71656866094" wallet-configs='[{"name":"shop_pay","wallet_params":{"shopId":71656866094,"merchantName":"27:17"}}]'> <div data-shopify-buttoncontainer="true"> <ul class="wallet-cart-grid wallet-cart-grid--skeleton" role="list"> <li class="wallet-cart-button-container" data-testid="grid-cell"><div aria-hidden="true" class="wallet-cart-button wallet-cart-button__skeleton" disabled="" role="button"> </div></li> </ul> </div> </shopify-accelerated-checkout-cart> <small aria-hidden="true" class="hidden" id="shopify-buyer-consent"> One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the <span id="shopify-subscription-policy-button">cancellation policy</span> and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted. </small> </div></div></div>
-</div>
-<div class="cart-continue">
-<a class="button button--solid button--wide button--align" href="/collections/all">
-<span>Continue browsing</span>
-</a>
-</div>
-</div>
-</div></div>
-</sidebar-drawer></div><main class="page-content" id="main"><section class="shopify-section mount-product-page mount-product-gallery mount-css-slider main-product section-w-margin" id="shopify-section-template--19759787049262__main"><product-page class="product-page" data-availability="true" data-collection="" data-id="8108919292206" data-single-variant="true" id="product-template--19759787049262__main" style="display:block">
-
-<div class="product_details">
-<div><div class=""><div class="shopify-block shopify-app-block" id="shopify-block-AeXBLZmxQQ3Y3YU1We__88d6a826-ee26-480c-9272-58c3e2e1a7a4"><div class="jdgm-widget jdgm-preview-badge" data-id="8108919292206" data-template="manual-installation">
-<div class="jdgm-prev-badge" data-average-rating="4.41" data-number-of-questions="0" data-number-of-reviews="420" style="display:none"> <span aria-label="4.41 stars" class="jdgm-prev-badge__stars" data-score="4.41" role="button" tabindex="0"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--half"></span> </span> <span class="jdgm-prev-badge__text"> 420 reviews </span> </div>
-</div>
-</div></div><div class="set-mobile-position">
-<product-header><div class="product__header">
-<h1 class="product__title h2">[BACKORDER] Relief &amp; Recovery Cream</h1><div style="display: flex; margin: 7px 0 18px;">
-
-<span class="product-size">100 ml / 3.4 oz</span>
-</div>
-<div class="product__extras text-size--smaller"></div>
-</div></product-header></div><div class="product__description lap--push-left-padding smaller-lap--push-left-none">
-<div class="rte">
-<h3 class="p1">📦<b> All backorders will ship January 17th </b>📦</h3>
-<p class="p1"><b>NEW IMPROVED FORMULA COMING JANUARY 17TH</b><b></b></p>
-<p class="p1"><b>We’ve updated our formula for even faster absorption and results. Click below to view full ingredients list.</b><b></b></p>
-<p class="p1"><span style="font-weight: 400;"><strong>Description</strong></span></p>
-<p><span style="font-weight: 400;">A pain-relief cream created for high-performance athletes that helps speed up the body's natural recovery process and remove the source of discomfort. Now available for everybody looking to feel better faster, get back on the path and back in the game.</span></p>
-<p><strong> Usage</strong></p>
-<ul>
-<li>Apply anywhere on the body with discomfort for immediate relief.</li>
-<li>Apply before work outs to warm up your muscle fibers and speed up recovery.</li>
-<li>Use daily or as needed.<br/>
-</li>
-</ul>
-</div>
-</div><product-variants data-hide-variants="true" data-id="template--19759787049262__main" data-type="radio" data-url="/products/recovery-cream" data-variants="1" style="display:block"><div class="product__variants" style="display:none;"><div class="product-variant" data-name="product-title">
-<span class="product-variant__name">Select Title</span>
-<div class="product-variant__container"><div class="product-variant__item">
-<input checked="" class="product-variant__input product-variant-value" data-price="$38.25" id="recovery-cream-option-title-1-" name="product-title" type="radio" value="Default Title"/>
-<label class="product-variant__label" for="recovery-cream-option-title-1-">Default Title
-</label>
-</div></div>
-</div></div><noscript>
-<select class="productSelect" data-productid="8108919292206" form="product-form-template--19759787049262__main" id="Variants-template--19759787049262__main" name="id" style="display:none!important"><option selected="selected" value="49580576244014">
-                      Default Title
-                      
-                      - $38.25
-                    </option></select>
-</noscript>
-
-</product-variants><div class=""><div class="shopify-block shopify-app-block recharge-subscription-widget" id="shopify-block-AVlMwdXZ1bDdDRVgwK__c7fccf12-e6f0-47c2-b6a0-1b611c4a720f">
-
-</div></div><product-form class="product__form" data-ajax-cart="" id="add-to-cart-template--19759787049262__main" style="display:block"><form accept-charset="UTF-8" action="/cart/add" class="form" data-productid="8108919292206" data-type="add-to-cart-form" enctype="multipart/form-data" id="product-form-template--19759787049262__main" method="post" novalidate="novalidate"><input name="form_type" type="hidden" value="product"><input name="utf8" type="hidden" value="✓"/><template>
-<input data-productid="8108919292206" name="id" type="hidden" value="49580576244014"/>
-</template>
-
-<div class="product__cart-actions cart-actions buttons-holder">
-<div class="product__cart-actions-holder"><input aria-label="Quantity" class="product__quantity" min="1" name="quantity" type="number" value="1"/><button class="product__add-to-cart button button--border" name="add" type="submit">
-<span class="add-to-cart__text">Add to cart</span> - <span class="product__pricing">$38.25</span>
-</button>
-</div><div class="shopify-payment-button" data-shopify="payment-button"> <shopify-accelerated-checkout access-token="f7af49b7a5a74b2a91f3d4fcd21d493d" buyer-country="US" buyer-currency="USD" buyer-locale="en" fallback='{"name":"buy_it_now","wallet_params":{}}' recommended='{"name":"shop_pay","wallet_params":{"shopId":71656866094,"merchantName":"27:17"}}' shop-id="71656866094" variant-params='[{"id":49580576244014,"requiresShipping":true}]'> <div aria-hidden="true" class="shopify-payment-button__button" disabled="" role="button" style="background-color: transparent; border: none"> <div class="shopify-payment-button__skeleton"> </div> </div> <div aria-hidden="true" class="shopify-payment-button__more-options shopify-payment-button__skeleton" disabled="" role="button"> </div> </shopify-accelerated-checkout> <small aria-hidden="true" class="hidden" id="shopify-buyer-consent"> This item is a recurring or deferred purchase. By continuing, I agree to the <span id="shopify-subscription-policy-button">cancellation policy</span> and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted. </small> </div><shopify-payment-terms shopify-meta='{"type":"product","variants":[{"id":49580576244014,"price_per_term":"$19.12","full_price":"$38.25","eligible":true,"available":true,"number_of_payment_terms":2}],"min_price":"$35.00","max_price":"$30,000.00","financing_plans":[{"min_price":"$35.00","max_price":"$49.99","terms":[{"apr":0,"loan_type":"split_pay","installments_count":2}]},{"min_price":"$50.00","max_price":"$149.99","terms":[{"apr":0,"loan_type":"split_pay","installments_count":4}]},{"min_price":"$150.00","max_price":"$999.99","terms":[{"apr":0,"loan_type":"split_pay","installments_count":4},{"apr":15,"loan_type":"interest","installments_count":3},{"apr":15,"loan_type":"interest","installments_count":6},{"apr":15,"loan_type":"interest","installments_count":12}]},{"min_price":"$1,000.00","max_price":"$30,000.00","terms":[{"apr":15,"loan_type":"interest","installments_count":3},{"apr":15,"loan_type":"interest","installments_count":6},{"apr":15,"loan_type":"interest","installments_count":12}]}],"installments_buyer_prequalification_enabled":false,"seller_id":1938096}' variant-id="49580576244014"></shopify-payment-terms></div><input name="product-id" type="hidden" value="8108919292206"><input name="section-id" type="hidden" value="template--19759787049262__main"/></input></input></form></product-form><toggle-tab class="toggle">
-<span aria-controls="toggle-05917d87-b9f3-4cfa-8a38-0150117b1dd6" aria-expanded="false" class="toggle__title text-size--smaller" tabindex="0">Click For Ingredients ⬇</span>
-<div class="toggle__content rte" id="toggle-05917d87-b9f3-4cfa-8a38-0150117b1dd6"><p>Water (Aqua), Cocos Nucifera (Coconut) Oil, Glycerin, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Dimethicone, TerpenesBlend, Phenoxyethanol, Menthol, Menthyl Lactate, Ethylhexylglycerin, Carbomer, Copper Tripeptide-1, Tetrasodium Glutamate Diacetate, Citric Acid, Sodium Hydroxide, Anthemis, Nobilis Flower Oil, MSM Powder, Dodecahydro, TetramethyInapthofuran, Eucalyptus Globulus Leaf Oil, Eugenia, Caryophyllus (Clove) Leaf Oil, Gamma-Octalactone, Gamma-Caprolactone, Lavandula Hybrida Oil, Litsea Cubeba Fruit Oil, Pelargonium Graveolens Flower Oil, Salvia Sclarea (Clary) Oil, Triethyl Citrate, Glyceryl Stearate SE, Green 5 (CI 61570), Yellow 5 (Cl 19140), Citrus Limon (Lemon) Peel Oil, Hydroxyethylcellulose, Arnica Extract</p></div>
-</toggle-tab></div>
-</div>
-<div class="product__gallery" style="background-color: #F4F2EE;">
-<div class="product-gallery__item lap--six-tenths smaller-lap--smart-width smaller-lap--push-left-padding" data-index="0" data-media-id="34776908726574" data-product-media-type="image" data-product-single-media-wrapper="" id="FeaturedMedia-34776908726574-wrapper" tabindex="-1">
-<img class="main-image" src="//2717recovery.com/cdn/shop/files/2717Bottle_1024x1024.jpg?v=1691510583"/></div></div>
-<div class="product__content"></div>
-</product-page>
-</section><section class="shopify-section custom-liquid-container" id="shopify-section-template--19759787049262__166008086886ca712a"><div>
-
-<div class="copper-strip"></div>
-<div id="key-ingredients">
-<div class="container">
-<p class="pretitle">KEY INGREDIENTS</p>
-<h3>How it works</h3>
-<div class="ingredient-cards">
-<div class="ingredient-card">
-<img src="https://t3.ftcdn.net/jpg/02/44/52/00/240_F_244520062_YrD4WycO2WBbC1AgBSnM7abr7LpfUU1t.jpg"/>
-<h4>GHK-Cu (Copper Peptide)</h4>
-
-<p>A protein that responds to tissue injuries by activating blood vessel growth and anti-inflammatory agents. This helps reduce inflammation (easing muscle soreness and body pain), promote tissue repair (helping your muscles recover faster), and improve circulation (delivering nutrients to sore or damaged areas for quicker healing).</p>
-</div>
-<div class="ingredient-card">
-<img src="https://t3.ftcdn.net/jpg/04/19/05/22/240_F_419052206_eSFBRUiisLSGzO8baQtA57XJReVb2mIX.jpg"/>
-<h4>OptiMSM</h4>
-<p>The purest form of MSM (Methylsulfonylmethane), sourced in the United States, and helps with joint health (reducing stiffness and discomfort), skin health (improving elasticity and reducing signs of aging), and muscle recovery (helping sore muscles feel better)</p>
-</div>
-<div class="ingredient-card">
-<img src="https://t3.ftcdn.net/jpg/03/50/86/22/240_F_350862262_7SHRwy3bibXa3TXT4yWsMjW1dlHkoWel.jpg"/>
-<h4>Arnica Extract</h4>
-<p>Sourced from the Arnica Montana Plant, a yellow flower that grows in mountain regions that's packed with natural compounds like helanins and flavonoids which help naturally calm the feeling of pain while to boosting blood flow to help prevent bruising and speed up the healing of broken blood vessels.</p>
-</div>
-<div class="ingredient-card">
-<img src="https://t4.ftcdn.net/jpg/02/20/82/23/240_F_220822305_f0BaMnViuffS9chr64Tdw6KsQAjM6GOc.jpg"/>
-<h4>Essential Oils</h4>
-
-<p>A blend of 27 Muscle Essential Oils each intentionally and purposefully selected to give a soothing sensation, non-greasy texture, and uplifting aroma.</p>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</section><section class="shopify-section custom-liquid-container" id="shopify-section-template--19759787049262__16600839769333e113"><div>
-
-<div id="deep-penetration">
-<div class="container">
-<div class="content m-order-2">
-<h3>Formulated For Deep Penetration</h3>
-<p>The Relief &amp; Recovery Cream's blend of GHK-Cu (copper peptide), terpenes, and essential oils promote recovery by addressing the source of your discomfort rather than masking it. Penetrating deep through the skin and down to the bone, relieving your discomfort in the process.</p>
-</div>
-<img class="chart m-order-1" src="https://cdn.shopify.com/s/files/1/0656/4862/3835/files/chart.png?v=1660084102"/>
-</div>
-</div>
-</div>
-</section><section class="shopify-section custom-liquid-container" id="shopify-section-template--19759787049262__16600847836f3b1c29"><div>
-
-<div class="copper-strip"></div>
-<div class="grid-section">
-<div class="content m-order-2">
-<h3>Real Relief For Real People.</h3>
-<p>It’s tough to be your best when you’re not feeling your best.</p>
-<p>It's tough to work, to exercise, to focus, even to relax when you're in pain</p>
-<p>And truth is, anyone on the path of being a little better today than they were yesterday is likely to have some aches in the process.</p>
-<p>Which is why we've even partnered up with chiropractors like Dr. Camacho to create the perfect recovery product to get you back in the game.</p>
-</div>
-<div class="section-image m-order-1" style="background-image: url('https://cdn.shopify.com/s/files/1/0716/5686/6094/files/2717-dr-camacho-chiropractor-cream-pain-relief-recovery-bo-nickal-ufc-2.jpg?v=1734463593');"></div>
-</div>
-
-</div>
-</section><section class="shopify-section custom-liquid-container" id="shopify-section-template--19759787049262__1660086842e93bcee5"><div>
-
-<div class="grid-section subscription-section" style="background-size: cover; background-position: center; background-image: url('https://cdn.shopify.com/s/files/1/0716/5686/6094/files/mailer.jpg?v=1687938277');">
-<div class="content" style="max-width: 900px; text-align: center; margin: auto;">
-<h3 style="max-width: 100%;">Relief on your schedule.</h3>
-<p>Subscribe to our recurring subscription program and recieve $5 off of your order, delivered at your pace, on your schedule.</p>
-<p>Need a new bottle every month? Every other week? Every 6 months? No worries. We’ve got you covered. Send us a message and we’ll take care of you.</p>
-<p>Select “Subscribe &amp; Save” when adding to cart.</p>
-<a class="white-btn" href="#">Back to top</a>
-</div>
-</div>
-</div>
-</section><section class="shopify-section section-w-margin" id="shopify-section-template--19759787049262__1694590842d3549cd3"><div class="ten-tenths lap--twelve-tenths push-left-one-tenth lap--push-left-padding"><div class="shopify-block shopify-app-block" id="shopify-block-AWlpaOTBsbGlVS0p5V__be734d2d-7807-42df-8cd0-873a6c941d97"><div style="clear:both"></div>
-<div class="jdgm-widget jdgm-review-widget" data-id="8108919292206" data-product-title="[BACKORDER] Relief &amp; Recovery Cream" id="judgeme_product_reviews">
-<div class="jdgm-rev-widg" data-average-rating="4.41" data-number-of-questions="0" data-number-of-reviews="420" data-updated-at="2025-01-07T00:58:43Z">  <div class="jdgm-rev-widg__header"> <h2 class="jdgm-rev-widg__title">Customer Reviews</h2> <div class="jdgm-rev-widg__summary"> <div aria-label="Average rating is 4.41 stars" class="jdgm-rev-widg__summary-stars" role="img"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--half"></span> </div> <div class="jdgm-rev-widg__summary-text">Based on 420 reviews</div> </div> <a class="jdgm-write-rev-link" href="#" role="button" style="display: none">Write a review</a> <div class="jdgm-histogram jdgm-temp-hidden"> <div class="jdgm-histogram__row" data-frequency="324" data-percentage="77" data-rating="5"> <div aria-label="77% (324) reviews with 5 star rating" class="jdgm-histogram__star" role="button" tabindex="0"><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span></div> <div class="jdgm-histogram__bar"> <div class="jdgm-histogram__bar-content" style="width: 77%;"> </div> </div> <div class="jdgm-histogram__percentage">77%</div> <div class="jdgm-histogram__frequency">(324)</div> </div> <div class="jdgm-histogram__row" data-frequency="24" data-percentage="6" data-rating="4"> <div aria-label="6% (24) reviews with 4 star rating" class="jdgm-histogram__star" role="button" tabindex="0"><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--off"></span></div> <div class="jdgm-histogram__bar"> <div class="jdgm-histogram__bar-content" style="width: 6%;"> </div> </div> <div class="jdgm-histogram__percentage">6%</div> <div class="jdgm-histogram__frequency">(24)</div> </div> <div class="jdgm-histogram__row" data-frequency="23" data-percentage="5" data-rating="3"> <div aria-label="5% (23) reviews with 3 star rating" class="jdgm-histogram__star" role="button" tabindex="0"><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--off"></span><span class="jdgm-star jdgm--off"></span></div> <div class="jdgm-histogram__bar"> <div class="jdgm-histogram__bar-content" style="width: 5%;"> </div> </div> <div class="jdgm-histogram__percentage">5%</div> <div class="jdgm-histogram__frequency">(23)</div> </div> <div class="jdgm-histogram__row" data-frequency="19" data-percentage="5" data-rating="2"> <div aria-label="5% (19) reviews with 2 star rating" class="jdgm-histogram__star" role="button" tabindex="0"><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--off"></span><span class="jdgm-star jdgm--off"></span><span class="jdgm-star jdgm--off"></span></div> <div class="jdgm-histogram__bar"> <div class="jdgm-histogram__bar-content" style="width: 5%;"> </div> </div> <div class="jdgm-histogram__percentage">5%</div> <div class="jdgm-histogram__frequency">(19)</div> </div> <div class="jdgm-histogram__row" data-frequency="30" data-percentage="7" data-rating="1"> <div aria-label="7% (30) reviews with 1 star rating" class="jdgm-histogram__star" role="button" tabindex="0"><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--off"></span><span class="jdgm-star jdgm--off"></span><span class="jdgm-star jdgm--off"></span><span class="jdgm-star jdgm--off"></span></div> <div class="jdgm-histogram__bar"> <div class="jdgm-histogram__bar-content" style="width: 7%;"> </div> </div> <div class="jdgm-histogram__percentage">7%</div> <div class="jdgm-histogram__frequency">(30)</div> </div> <div class="jdgm-histogram__row jdgm-histogram__clear-filter" data-rating="null" tabindex="0"></div> </div> <div class="jdgm-medals-wrapper jdgm-hidden"><div class="jdgm-medals" data-link="https://judge.me/reviews/2717recovery.myshopify.com"><div class="jdgm-medals__container"><div class="jdgm-medal-wrapper" title="Gold Authentic Shop. At least 95% of published reviews are verified reviews"><a class="jdgm-medal jdgm--loading" data-tier="gold" data-type="auth" data-value="98.8"><div class="jdgm-medal__image" data-alt="Judge.me Gold Authentic Shop medal" data-url="auth/gold.svg"></div><div class="jdgm-medal__value">98.8</div></a></div><div class="jdgm-medal-wrapper" title="Platinum Transparent Shop. Published at least 99% of verified reviews received in total"><a class="jdgm-medal jdgm--loading" data-tier="platinum" data-type="tran" data-value="99.3"><div class="jdgm-medal__image" data-alt="Judge.me Platinum Transparent Shop medal" data-url="tran/platinum.svg"></div><div class="jdgm-medal__value">99.3</div></a></div></div></div></div> <div class="jdgm-rev-widg__sort-wrapper"></div> </div> <div class="jdgm-rev-widg__body"> <div class="jdgm-rev-widg__reviews"><div class="jdgm-rev jdgm-divider-top" data-product-title="Relief &amp; Recovery Cream" data-product-url="/products/recovery-cream" data-review-id="b6d42607-0b6b-5e4f-a50f-d717973dd449" data-thumb-down-count="0" data-thumb-up-count="0" data-verified-buyer="true"> <div class="jdgm-rev__header"> <div class="jdgm-rev__icon"> S </div> <span aria-label="5 star review" class="jdgm-rev__rating" data-score="5" role="img" tabindex="0"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span> </span> <span class="jdgm-rev__timestamp jdgm-spinner" data-content="2025-01-07 00:55:58 UTC"></span> <div class="jdgm-rev__br"></div> <span class="jdgm-rev__buyer-badge-wrapper"> <span class="jdgm-rev__buyer-badge"></span> </span> <span class="jdgm-rev__author-wrapper"> <span class="jdgm-rev__author">Shawna Churchill</span> <span class="jdgm-rev__location"> </span> <span class="jdgm-rev__source" data-source="shop-app"></span> </span> </div> <div class="jdgm-rev__content"> <div class="jdgm-rev__custom-form"> </div> <b class="jdgm-rev__title"></b> <div class="jdgm-rev__body"><p>I love this stuff!</p></div> <div class="jdgm-rev__pics"> </div> <div class="jdgm-rev__vids"> </div> </div> <div class="jdgm-rev__actions"> <div class="jdgm-rev__social"></div> <div class="jdgm-rev__votes"></div> </div> <div class="jdgm-rev__reply"> </div> </div><div class="jdgm-rev jdgm-divider-top" data-product-title="Relief &amp; Recovery Cream" data-product-url="/products/recovery-cream" data-review-id="8697551b-efdc-5303-a54d-49a9203e59ad" data-thumb-down-count="0" data-thumb-up-count="0" data-verified-buyer="true"> <div class="jdgm-rev__header"> <div class="jdgm-rev__icon"> T </div> <span aria-label="4 star review" class="jdgm-rev__rating" data-score="4" role="img" tabindex="0"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--off"></span> </span> <span class="jdgm-rev__timestamp jdgm-spinner" data-content="2025-01-06 20:09:38 UTC"></span> <div class="jdgm-rev__br"></div> <span class="jdgm-rev__buyer-badge-wrapper"> <span class="jdgm-rev__buyer-badge"></span> </span> <span class="jdgm-rev__author-wrapper"> <span class="jdgm-rev__author">Tania Patterson</span> <span class="jdgm-rev__location"> </span> <span class="jdgm-rev__source" data-source="shop-app"></span> </span> </div> <div class="jdgm-rev__content"> <div class="jdgm-rev__custom-form"> </div> <b class="jdgm-rev__title"></b> <div class="jdgm-rev__body"><p>It’s amazing</p></div> <div class="jdgm-rev__pics"> </div> <div class="jdgm-rev__vids"> </div> </div> <div class="jdgm-rev__actions"> <div class="jdgm-rev__social"></div> <div class="jdgm-rev__votes"></div> </div> <div class="jdgm-rev__reply"> </div> </div><div class="jdgm-rev jdgm-divider-top" data-product-title="Relief &amp; Recovery Cream" data-product-url="/products/recovery-cream" data-review-id="7ff78283-7b4d-554b-a6d7-5608c85bc959" data-thumb-down-count="0" data-thumb-up-count="0" data-verified-buyer="true"> <div class="jdgm-rev__header"> <div class="jdgm-rev__icon"> F </div> <span aria-label="5 star review" class="jdgm-rev__rating" data-score="5" role="img" tabindex="0"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span> </span> <span class="jdgm-rev__timestamp jdgm-spinner" data-content="2024-12-30 17:36:13 UTC"></span> <div class="jdgm-rev__br"></div> <span class="jdgm-rev__buyer-badge-wrapper"> <span class="jdgm-rev__buyer-badge"></span> </span> <span class="jdgm-rev__author-wrapper"> <span class="jdgm-rev__author">Francis Alvir</span> <span class="jdgm-rev__location"> </span> <span class="jdgm-rev__source" data-source="shop-app"></span> </span> </div> <div class="jdgm-rev__content"> <div class="jdgm-rev__custom-form"> </div> <b class="jdgm-rev__title"></b> <div class="jdgm-rev__body"><p>So far so good . Still in trial stage</p></div> <div class="jdgm-rev__pics"> </div> <div class="jdgm-rev__vids"> </div> </div> <div class="jdgm-rev__actions"> <div class="jdgm-rev__social"></div> <div class="jdgm-rev__votes"></div> </div> <div class="jdgm-rev__reply"> </div> </div><div class="jdgm-rev jdgm-divider-top" data-product-title="Relief &amp; Recovery Cream" data-product-url="/products/recovery-cream" data-review-id="220a3d16-154f-5bf2-b300-3b5d6021f23e" data-thumb-down-count="0" data-thumb-up-count="0" data-verified-buyer="true"> <div class="jdgm-rev__header"> <div class="jdgm-rev__icon"> G </div> <span aria-label="5 star review" class="jdgm-rev__rating" data-score="5" role="img" tabindex="0"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span> </span> <span class="jdgm-rev__timestamp jdgm-spinner" data-content="2024-12-26 20:54:42 UTC"></span> <div class="jdgm-rev__br"></div> <span class="jdgm-rev__buyer-badge-wrapper"> <span class="jdgm-rev__buyer-badge"></span> </span> <span class="jdgm-rev__author-wrapper"> <span class="jdgm-rev__author">G.P.</span> <span class="jdgm-rev__location"> </span> <span class="jdgm-rev__source" data-source="shop-app"></span> </span> </div> <div class="jdgm-rev__content"> <div class="jdgm-rev__custom-form"> </div> <b class="jdgm-rev__title"></b> <div class="jdgm-rev__body"><p>So far so good</p></div> <div class="jdgm-rev__pics"> </div> <div class="jdgm-rev__vids"> </div> </div> <div class="jdgm-rev__actions"> <div class="jdgm-rev__social"></div> <div class="jdgm-rev__votes"></div> </div> <div class="jdgm-rev__reply"> </div> </div><div class="jdgm-rev jdgm-divider-top" data-product-title="Relief &amp; Recovery Cream" data-product-url="/products/recovery-cream" data-review-id="4a5075f6-305b-4bb8-a2d0-f1866636809c" data-thumb-down-count="0" data-thumb-up-count="0" data-verified-buyer="true"> <div class="jdgm-rev__header"> <div class="jdgm-rev__icon"> M </div> <span aria-label="5 star review" class="jdgm-rev__rating" data-score="5" role="img" tabindex="0"> <span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span><span class="jdgm-star jdgm--on"></span> </span> <span class="jdgm-rev__timestamp jdgm-spinner" data-content="2024-12-17 23:50:00 UTC"></span> <div class="jdgm-rev__br"></div> <span class="jdgm-rev__buyer-badge-wrapper"> <span class="jdgm-rev__buyer-badge"></span> </span> <span class="jdgm-rev__author-wrapper"> <span class="jdgm-rev__author">Melvaree Witherspoon</span> <span class="jdgm-rev__location"> </span> </span> </div> <div class="jdgm-rev__content"> <div class="jdgm-rev__custom-form"> </div> <b class="jdgm-rev__title">Game-Changer With a Pleasant Scent</b> <div class="jdgm-rev__body"><p>I absolutely love this product! I’ve been using it before my workouts, and it’s been a total game-changer. One of my favorite things about it is that it doesn’t smell like medicine—it has such a pleasant scent! I recently let my business partner use it on her knee that’s been giving her trouble, and she loved it just as much as I do. It’s effective, and enjoyable to use. I’ve even been sharing it on my social media because I believe in it so much. Great job, 27:17 team—thank you for creating such an amazing product!</p></div> <div class="jdgm-rev__pics"> </div> <div class="jdgm-rev__vids"> </div> </div> <div class="jdgm-rev__actions"> <div class="jdgm-rev__social"></div> <div class="jdgm-rev__votes"></div> </div> <div class="jdgm-rev__reply"> </div> </div></div> <div class="jdgm-paginate" data-per-page="5" data-url="https://judge.me/reviews/reviews_for_widget"><a aria-label="Page 1" class="jdgm-paginate__page jdgm-curt" data-page="1" role="button" tabindex="0">1</a><a aria-label="Page 2" class="jdgm-paginate__page" data-page="2" role="button" tabindex="0">2</a><a aria-label="Page 3" class="jdgm-paginate__page" data-page="3" role="button" tabindex="0">3</a><a aria-label="Page 2" class="jdgm-paginate__page jdgm-paginate__next-page" data-page="2" rel="next" role="button" tabindex="0"></a><a aria-label="Page 84" class="jdgm-paginate__page jdgm-paginate__last-page" data-page="84" role="button" tabindex="0"></a></div> </div> <div class="jdgm-rev-widg__paginate-spinner-wrapper"> <div class="jdgm-spinner"></div> </div> </div>
-</div>
-</div></div>
-</section>
-</main><div class="shopify-section no-overflow" id="shopify-section-text-columns-with-icons"></div><div class="shopify-section section-w-mobile-padding ten-tenths lap--full-width push-left-one-tenth lap--push-left-none" id="shopify-section-footer"><footer>
-<a class="footer-logo" href="#"><img src="https://cdn.shopify.com/s/files/1/0716/5686/6094/files/recovery-logo-copper.png?v=1675034063" style="max-width: 100px;"/></a><div class="footer-item four-tenths lap--full-width footer-item--menus"><div class="two-tenths lap--five-tenths palm--full-width"><h5 class="footer-item__title">Navigation</h5><div class="footer-links text-size--larger"><span>
-<a href="/"><span class="footer-links-body">Home</span></a>
-</span><span>
-<a href="/products/recovery-cream"><span class="footer-links-body">Shop Now</span></a>
-</span><span>
-<a href="/pages/our-mission"><span class="footer-links-body">Our Mission</span></a>
-</span><span>
-<a href="https://2717recovery.com/pages/health-ambassador-application"><span class="footer-links-body">Ambassador Application</span></a>
-</span><span>
-<a href="https://2717recovery.com/pages/health-ambassador-application"><span class="footer-links-body">Wholesale Partnerships</span></a>
-</span></div>
-</div></div><div class="footer-item four-tenths lap--full-width push-left-two-tenths lap--push-left-none footer-item--menus"><div class="two-tenths lap--five-tenths palm--full-width"><h5 class="footer-item__title">Support</h5><div class="footer-links text-size--larger"><span>
-<a href="/pages/contact"><span class="footer-links-body">Contact</span></a>
-</span><span>
-<a href="https://www.avantlink.com/signup/publisher-united-states/?merchant=32101"><span class="footer-links-body">Become a Partner</span></a>
-</span><span>
-<a href="/pages/terms-of-service"><span class="footer-links-body">Terms of Service</span></a>
-</span><span>
-<a href="/pages/privacy-policy"><span class="footer-links-body">Privacy Policy</span></a>
-</span><span>
-<a href="/pages/shipping-policy"><span class="footer-links-body">Shipping Policy</span></a>
-</span><span>
-<a href="/pages/returns"><span class="footer-links-body">Returns</span></a>
-</span></div>
-</div></div><div class="footer-item four-tenths lap--full-width footer-item--newsletter"><h5 class="footer-item__title">GET THE LATEST</h5><div class="newsletter-form"><form accept-charset="UTF-8" action="/contact#newsletter-form-cb26e229-0f34-44da-a191-022d03cc56e4" class="contact-form" id="newsletter-form-cb26e229-0f34-44da-a191-022d03cc56e4" method="post"><input name="form_type" type="hidden" value="customer"/><input name="utf8" type="hidden" value="✓"/><div class="newsletter-input-holder">
-<label class="visually-hidden" for="Email-block">Your email</label>
-<input aria-label="Your email" autocapitalize="off" class="newsletter-input" id="Email-block" name="contact[email]" placeholder="Your email" required="" type="email" value=""/>
-<button class="newsletter-submit" id="Subscribe-block" type="submit">
-<span class="visually-hidden">Submit</span><svg aria-hidden="true" enable-background="new -19 23 66 16" focusable="false" role="presentation" viewbox="-19 23 66 16" xmlns="http://www.w3.org/2000/svg"><path d="m-19 29.6h64v2.9h-64z"></path><path d="m47 31-2-2-6-6-2 2 5.9 6-5.9 6 2 2 6-6z"></path></svg></button>
-<input name="contact[tags]" type="hidden" value="newsletter"/>
-</div></form></div><div class="newsletter-text rte"><p>Join the newsletter. No spam. Only the stuff that matters. <a href="/pages/privacy-policy" title="Privacy Policy">Privacy policy</a>.</p></div></div><div class="footer-item four-tenths lap--full-width push-left-two-tenths lap--push-left-none footer-item--text"><h5 class="footer-item__title">Disclaimer</h5><div class="rte">
-<p><strong>*These statements have not been evaluated by the Food and Drug Administration (FDA). Supplements are not intended to diagnose, treat, cure, mitigate or prevent any disease. This information is not a substitute for medical advice or treatment. Always consult your physician before starting any new supplement, exercise or diet plan.</strong></p>
-</div></div><div class="footer-item footer-item--copyright">
-
-<span>Proverbs 27:17 “As iron sharpens iron, so one man sharpens another.”</span>
-<br/><br/>
-<span>Owned by Paradise Valley Investments, LLC</span>
-</div>
-</footer>
-</div><div class="shopify-section mount-popup" id="shopify-section-popup"><modal-box class="popup" data-options='{
-    "show": 10,
-    "frequency": "week",
-    "enabled": false
-  }' id="modal-popup" style="display:none">
-<div class="popup-text" data-content=""><span class="h4 popup-title">Popup</span><div class="rte"><p>Stay up to date on the latest product releases, special offers &amp; news by signing up for our newsletter.</p><p>Read our <a href="#">privacy policy</a>.</p></div><div class="newsletter-form"><form accept-charset="UTF-8" action="/contact#newsletter-form-popup" class="contact-form" id="newsletter-form-popup" method="post"><input name="form_type" type="hidden" value="customer"/><input name="utf8" type="hidden" value="✓"/><div class="newsletter-input-holder">
-<label class="visually-hidden" for="Email-popup">Your email</label>
-<input aria-label="Your email" autocapitalize="off" class="newsletter-input" id="Email-popup" name="contact[email]" placeholder="Your email" required="" type="email" value=""/>
-<button class="newsletter-submit button button--solid button--wide" id="Subscribe-popup" type="submit">
-<span>Submit</span></button>
-<input name="contact[tags]" type="hidden" value="newsletter"/>
-</div></form></div></div>
-<button class="popup-close" data-close="">
-<span class="visually-hidden">Close</span><svg aria-hidden="true" fill="none" focusable="false" height="17" role="presentation" viewbox="0 0 17 17" width="17" xmlns="http://www.w3.org/2000/svg"><path d="M1.41418 0L16.9705 15.5563L15.5563 16.9706L-2.89679e-05 1.41421L1.41418 0Z" fill="#111111"></path><path d="M16.9706 1.41431L1.41423 16.9707L1.85966e-05 15.5564L15.5564 9.31025e-05L16.9706 1.41431Z" fill="#111111"></path></svg></button>
-</modal-box>
-
-</div><div class="page-overlay"></div>
+<body class="gradient" data-currency="$" data-template="product" data-templatetype="" style="opacity:0;">
+<a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Skip to content
+    </a>
 
 </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </html>
+
+
 
 
