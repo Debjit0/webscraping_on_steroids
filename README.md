@@ -80,6 +80,9 @@ The Review Extraction API is designed to extract product reviews dynamically fro
 ## Websites Tested
 - https://2717recovery.com/products/recovery-cream
 - https://www.trustpilot.com/
+
 - https://www.shopclues.com/combo-of-2-my-chetan-9-w-round-2-pin-led-bulb-white-153526540.html
 - https://www.shopclues.com/chamria-hing-wati-digestive-mouth-freshner-200-gm-can-pack-of-2-153514795.html
 ---
+## Demo Output
+<img width="1792" alt="Screenshot 2025-01-20 at 12 09 26 PM" src="https://github.com/user-attachments/assets/2ef5a5cc-c601-4bc7-8174-3f7745b56501" />
