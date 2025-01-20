@@ -69,12 +69,14 @@ The Review Extraction API is designed to extract product reviews dynamically fro
 ```
 
 ---
-### Cloud Deployment
-
+### Technologies Used
+- Python
+- Google Gemini Flash 1.5
 - Aws Lambda
 - Aws EC2
 - Aws S3
 - Aws Step Function
+- Aws Api Gateway
 
 ---
 ## Websites Tested
