@@ -85,4 +85,4 @@ The Review Extraction API is designed to extract product reviews dynamically fro
 - https://www.shopclues.com/chamria-hing-wati-digestive-mouth-freshner-200-gm-can-pack-of-2-153514795.html
 ---
 ## Demo Output
-<img width="1792" alt="Screenshot 2025-01-20 at 12 09 26 PM" src="https://github.com/user-attachments/assets/2ef5a5cc-c601-4bc7-8174-3f7745b56501" />
+<img width="1792" alt="Screenshot 2025-01-20 at 2 08 49 PM" src="https://github.com/user-attachments/assets/428a16a7-c5ce-4371-88b5-b2e0347b3211" />
